@@ -64,6 +64,25 @@ sql_practice/
 - `correlated_subquery.sql` – Row-wise comparison using correlated subquery (e.g. class-wise marks)  
 - `comments.md` – Difference between nested and correlated subqueries
 
+### 🔹 4_aggregates_groupby/
+- `group_by.sql` – GROUP BY with COUNT, SUM, AVG examples  
+- `having_clause.sql` – Filter grouped data using HAVING with conditions  
+- `comments.md` – Use cases and differences between WHERE vs HAVING
+
+### 🔹 5_advanced/
+- `views.sql` – Create and query SQL views  
+- `indexes.sql` – Use indexes to improve SELECT performance  
+- `triggers.sql` – Create triggers for insert/update events  
+- `stored_procedures.sql` – Reusable SQL logic with input/output  
+- `transactions.sql` – COMMIT, ROLLBACK, and ACID properties explained  
+- `comments.md` – Overview of all advanced concepts with use cases
+
+### 🔹 6_projects/
+- `ecommerce_schema.sql` – Real-world e-commerce database design (products, orders, users)  
+- `ecommerce_queries.sql` – Practical SQL queries like top customers, total sales, order history  
+- `erd.png` – Entity Relationship Diagram of the project schema  
+- `README.md` – Explains the project scope, tables, and use cases
+
 ---
 
 ## 💡 How to Use
